@@ -29,5 +29,5 @@
 
 
 <p><strong>Todos los cambios que se hacen en la página se van actulizando en la base de datos de Firebase</strong></p>
-<p><strong><img src="Img/Base de datos.png" alt="Base de datos" width="900" height="600" /></strong></p>
+<p><strong><img src="Img/Base de datos.png" alt="Base de datos" width="800" height="450" /></strong></p>
 
