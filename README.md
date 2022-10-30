@@ -10,6 +10,9 @@
 <p><span style="color: #000000;"><strong><img src="Img/Añadir.gif" alt="Añadir registro" width="900" height="600" /></strong></span></p>
 <p><span style="color: #000000;">Registramos los datos de una clase a la base de datos y esta se muestra en la página</span></p>
 
+<p><span style="color: #000000;"><strong><img src="Img/Clase BD.png" alt="Clase añadida" width="900" height="600" /></strong></span></p>
+<p>Se añade la clase de Bases de datos </p>
+
 
 <p><span style="color: #000000;"><strong>Editamos los registros</strong></span></p>
 <p><span style="color: #000000;"><strong><img src="Img/Editar.gif" alt="editar" width="900" height="600"/></strong></span></p>
