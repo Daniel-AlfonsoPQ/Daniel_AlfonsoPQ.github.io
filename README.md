@@ -8,14 +8,16 @@
 <p><span style="color: #000000;"><strong>Menú de la interfaz principal. En la parte izquierda hay un formulario para llenar los datos de estudiantes, clases y matriculas</strong></span></p>
 
 <p><span style="color: #000000;"><strong><img src="Img/Añadir.gif" alt="Añadir registro" width="900" height="600" /></strong></span></p>
-<p><span style="color: #000000;">Registramos los datos de una clase a la base de datos</span></p>
+<p><span style="color: #000000;">Registramos los datos de una clase a la base de datos y esta se muestra en la página</span></p>
 
 
 <p><span style="color: #000000;"><strong>Editamos los registros</strong></span></p>
 <p><span style="color: #000000;"><strong><img src="Img/Editar.gif" alt="editar" width="900" height="600"/></strong></span></p>
+<p>Si se hace un click en el boton "Edit" la información pasa al formulario para cambiar los datos y el botón cambia de Guardar a Actualizar.</p>
 
 <p>Modificamos el ID de un estudiante</p>
 <p><img src="Img/Editar Estudiante.gif" alt="Estudiante modificado" width="900" height="600" /></p>
+<p>Acá cambiamos el ID 8 por el ID 11. </p>
 
 
 <p><strong>Eliminar registro</strong></p>
