@@ -17,7 +17,7 @@
 
 <p>Modificamos el ID de un estudiante</p>
 <p><img src="Img/Editar Estudiante.gif" alt="Estudiante modificado" width="900" height="600" /></p>
-<p>Acá cambiamos el ID 8 por el ID 11. </p>
+<p>Acá cambiamos el ID 6 por el ID 11 y vemos que se actualiza inmediatamente en la página. </p>
 
 
 <p><strong>Eliminar registro</strong></p>
