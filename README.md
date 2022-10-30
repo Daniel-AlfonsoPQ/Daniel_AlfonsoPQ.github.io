@@ -4,7 +4,7 @@
 <p><span style="color: #000000;"><strong>CRUD diseñada con JavaScript y HTML para añadir estudiantes, matriculas y clases con la base de datos de Firebase. </strong></span></p>
 
 
-<p><span style="color: #000000;"><strong><img src="Img/IntefazPrincipal.png" alt="Interfaz Principal" width="800" height="600" /></strong></span></p>
+<p><span style="color: #000000;"><strong><img src="Img/IntefazPrincipal.png" alt="Interfaz Principal" width="800" height="450" /></strong></span></p>
 <p><span style="color: #000000;"><strong>Menú de la interfaz principal. En la parte izquierda hay un formulario para llenar los datos de estudiantes, clases y matriculas</strong></span></p>
 
 <p><span style="color: #000000;"><strong><img src="Img/Añadir.gif" alt="Añadir registro" width="900" height="600" /></strong></span></p>
