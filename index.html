@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD RETO FINAL</title>
+    <link rel="stylesheet" href="https://bootswatch.com/5/superhero/bootstrap.min.css">
+</head>
+<body>
+
+    <div class ="container p-3">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h1 class ="h4">
+                            RETO FINAL - CRUD
+                        </h1>
+                        <p>
+                            En el siguiente menú podrás ingresar datos para estudiantes, clases y matriculas
+                        </p>
+                        <form id="Estudiante-form">
+
+                            <label for="id-estudiante">ID Estudiante:</label><br>
+                            <input type="text" placeholder="ID" id="id-estudiante" style="width : 250px"><br>
+            
+                            <label for="apellido-estudiante">Apellido:</label><br>
+                            <input type="text" placeholder="Apellido" id="apellido-estudiante" style="width : 250px"><br>
+
+                            <label for="nombre-estudiante">Nombre:</label><br>
+                            <input type="text" placeholder="Nombre" id="nombre-estudiante" style="width : 250px" ><br>
+                            <br>
+                            <button id="btn-estudiante-save">Guardar</button>
+            
+                        </form>
+                        <br>
+                        <br>
+            
+                        <form id="Matricula-form">
+            
+                            <label for="id-matricula">ID Matricula:</label><br>
+                            <input type="text" placeholder="ID" id="id-matricula" style="width : 250px"><br>
+            
+                            <label for="id-estudianteM">ID Estudiante:</label><br>
+                            <input type="text" placeholder="ID Estudiante" id="id-estudianteM" style="width : 250px"><br>
+            
+                            <label for="id-claseM">ID Clase:</label><br>
+                            <input type="text" placeholder="ID Clase" id="id-claseM" style="width : 250px"><br>
+                            <br>
+                            <button id="btn-matricula-save">Guardar</button>
+            
+                        </form>
+            
+                        <br><br>
+                        
+                        <form id="Clase-form">
+            
+                            <label for="id-clase">ID Clase:</label><br>
+                            <input type="text" placeholder="ID Clase" id="id-clase" style="width : 250px"><br>
+            
+                            <label for="titulo-clase">Titulo:</label><br>
+                            <input type="text" placeholder="Titulo" id="titulo-clase" style="width : 250px"><br>
+            
+                            <label for="clase-description">Descripción:</label><br>
+                            <textarea id="clase-description" rows="4" cols="30" placeholder="Descripción de la clase"></textarea><br>
+                            <br>
+                            <button id="btn-clase-save">Guardar</button>
+            
+                     
+                       </form> 
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3" id="estudiantes-container"></div>
+            <div class="col-md-3" id="matriculas-container"></div>
+            <div class="col-md-3" id="clases-container"></div>
+        </div>
+            
+    </div>
+  
+
+
+    <script type="module" src="./index.js"></script>
+
+</body>
+</html>
