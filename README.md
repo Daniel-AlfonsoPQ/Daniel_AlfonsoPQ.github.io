@@ -7,7 +7,7 @@
 <p><span style="color: #000000;"><strong><img src="Img/InterfazPrincipal.png" alt="Interfaz Principal" width="600" height="500" /></strong></span></p>
 <p><span style="color: #000000;"><strong>Menú de la interfaz principal. En la parte izquierda hay un formulario para llenar los datos de estudiantes, clases y matriculas</strong></span></p>
 
-<p><span style="color: #000000;"><strong><img src="Img/Añadir.gif" alt="Añadir registro" width="600" height="500" /></strong></span></p>
+<p><span style="color: #000000;"><strong><img src="Img/Añadir.gif" alt="Añadir registro" width="800" height="500" /></strong></span></p>
 <p><span style="color: #000000;">Registramos los datos de una clase a la base de datos</span></p>
 
 
